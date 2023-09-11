@@ -1,0 +1,14 @@
+{
+  "name": "bookmarks-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Labo 1 - Bookmarks",
+  "main": "BookmarksService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node BookmarksService.js"
+  },
+  "author": "Vincent Beaupre",
+  "license": "ISC"
+  
+}
