@@ -1,6 +1,9 @@
 {
   "name": "bookmarks-api",
   "type": "module",
+  "engines": {
+    "node": "16.14.2"
+  },
   "version": "1.0.0",
   "description": "Labo 1 - Bookmarks",
   "main": "BookmarksService.js",
